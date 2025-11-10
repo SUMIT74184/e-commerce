@@ -714,37 +714,7 @@ db.orders.aggregate([
 
 ---
 
-## 📸 Screenshots
 
-### Homepage
-![Homepage](docs/screenshots/homepage.png)
-*Modern, responsive homepage with featured products and categories*
-
-### Product Catalog
-![Product Catalog](docs/screenshots/catalog.png)
-*Advanced filtering and search with real-time results*
-
-### Product Details
-![Product Details](docs/screenshots/product-details.png)
-*Detailed product page with reviews and related products*
-
-### Shopping Cart
-![Shopping Cart](docs/screenshots/cart.png)
-*Real-time cart updates with price calculations*
-
-### Checkout Process
-![Checkout](docs/screenshots/checkout.png)
-*Multi-step checkout with shipping and payment*
-
-### User Dashboard
-![User Dashboard](docs/screenshots/user-dashboard.png)
-*Order history and account management*
-
-### Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin.png)
-*Comprehensive admin panel for inventory and order management*
-
----
 
 ## 🗺️ Roadmap
 
